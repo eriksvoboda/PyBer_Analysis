@@ -7,6 +7,8 @@ The purpose of this project is to create a summary of total weekly fare data by 
 ## Results
 
 
+
+### Total Fare by City Type
 ![](/Analysis/PyBer_fare_summary.png)
 
 ## Summary
