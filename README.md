@@ -15,3 +15,5 @@ From the summary data frame it's clear that Urban city type has the highest tota
 ![](/Analysis/PyBer_fare_summary.png)
 
 ## Summary
+
+One conclusion that might be drawn from this data is that Rural cities shoould be supported with more drivers to increase fares. However Rural cities have limited populations so an increase in drivers wouldn't necessarily result in increased fares. It likely only serve to reduce the average fare per driver. Suburban population trends could be examined to determine if more people are moving to the Suburbs. And if there is a trend of increasing Suburban populations, then hiring more drivers in Suburban cities could lead to an increase in fares. Currently it makes most sense to support Urban cities the most as they are over half of the Total Fares. Also it would be beneficial to look at lost fares during the peak at the end of February to determine of more temporary drivers should be hired to capture more sales. In this case all three city types could see an increase in Total Fares at this time if there are currently not enough drivers to support the demand at that time. 
